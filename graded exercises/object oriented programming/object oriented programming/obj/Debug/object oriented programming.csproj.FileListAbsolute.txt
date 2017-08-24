@@ -1,0 +1,7 @@
+C:\Users\cheta\Desktop\MSSA\object oriented programming\object oriented programming\bin\Debug\object oriented programming.exe.config
+C:\Users\cheta\Desktop\MSSA\object oriented programming\object oriented programming\bin\Debug\object oriented programming.exe
+C:\Users\cheta\Desktop\MSSA\object oriented programming\object oriented programming\bin\Debug\object oriented programming.pdb
+C:\Users\cheta\Desktop\MSSA\object oriented programming\object oriented programming\obj\Debug\object oriented programming.csprojResolveAssemblyReference.cache
+C:\Users\cheta\Desktop\MSSA\object oriented programming\object oriented programming\obj\Debug\object oriented programming.csproj.CoreCompileInputs.cache
+C:\Users\cheta\Desktop\MSSA\object oriented programming\object oriented programming\obj\Debug\object oriented programming.exe
+C:\Users\cheta\Desktop\MSSA\object oriented programming\object oriented programming\obj\Debug\object oriented programming.pdb
