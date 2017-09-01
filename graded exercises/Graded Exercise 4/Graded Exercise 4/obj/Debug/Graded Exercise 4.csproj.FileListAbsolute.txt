@@ -1,0 +1,6 @@
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Class excercise\Graded Exercise 4\Graded Exercise 4\obj\Debug\Graded Exercise 4.csprojResolveAssemblyReference.cache
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Class excercise\Graded Exercise 4\Graded Exercise 4\bin\Debug\Graded Exercise 4.exe.config
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Class excercise\Graded Exercise 4\Graded Exercise 4\bin\Debug\Graded Exercise 4.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Class excercise\Graded Exercise 4\Graded Exercise 4\bin\Debug\Graded Exercise 4.pdb
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Class excercise\Graded Exercise 4\Graded Exercise 4\obj\Debug\Graded Exercise 4.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Class excercise\Graded Exercise 4\Graded Exercise 4\obj\Debug\Graded Exercise 4.pdb
