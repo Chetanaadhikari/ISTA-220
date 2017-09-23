@@ -1,6 +1,0 @@
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe.config
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.pdb
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.exe
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.pdb
