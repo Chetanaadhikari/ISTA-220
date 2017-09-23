@@ -1,0 +1,6 @@
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csprojResolveAssemblyReference.cache
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.pdb
