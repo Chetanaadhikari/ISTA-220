@@ -1,0 +1,6 @@
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojResolveAssemblyReference.cache
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
