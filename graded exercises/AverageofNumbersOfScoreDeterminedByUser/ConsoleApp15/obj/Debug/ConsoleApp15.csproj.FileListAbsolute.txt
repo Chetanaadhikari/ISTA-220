@@ -1,0 +1,6 @@
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojResolveAssemblyReference.cache
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
