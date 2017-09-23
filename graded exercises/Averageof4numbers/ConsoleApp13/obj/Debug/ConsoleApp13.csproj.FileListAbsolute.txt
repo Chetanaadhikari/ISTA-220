@@ -1,0 +1,6 @@
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csprojResolveAssemblyReference.cache
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+c:\users\chetana\documents\visual studio 2017\Projects\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
