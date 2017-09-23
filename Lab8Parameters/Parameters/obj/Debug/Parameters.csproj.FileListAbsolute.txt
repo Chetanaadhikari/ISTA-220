@@ -1,6 +1,0 @@
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 8\Parameters\Parameters\bin\Debug\Parameters.exe.config
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 8\Parameters\Parameters\bin\Debug\Parameters.exe
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 8\Parameters\Parameters\bin\Debug\Parameters.pdb
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 8\Parameters\Parameters\obj\Debug\Parameters.csprojResolveAssemblyReference.cache
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 8\Parameters\Parameters\obj\Debug\Parameters.exe
-C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 8\Parameters\Parameters\obj\Debug\Parameters.pdb
