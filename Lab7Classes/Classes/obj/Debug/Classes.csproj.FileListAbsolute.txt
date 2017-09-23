@@ -1,0 +1,6 @@
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\chetana\Desktop\MSSA\ISTA-220-03-master\Code\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.pdb
