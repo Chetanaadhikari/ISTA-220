@@ -1,0 +1,7 @@
+C:\Users\cheta\Desktop\MSSA\CodingforFun\ComputerGuessesNumber\ComputerGuessesNumber\bin\Debug\ComputerGuessesNumber.exe.config
+C:\Users\cheta\Desktop\MSSA\CodingforFun\ComputerGuessesNumber\ComputerGuessesNumber\bin\Debug\ComputerGuessesNumber.exe
+C:\Users\cheta\Desktop\MSSA\CodingforFun\ComputerGuessesNumber\ComputerGuessesNumber\bin\Debug\ComputerGuessesNumber.pdb
+C:\Users\cheta\Desktop\MSSA\CodingforFun\ComputerGuessesNumber\ComputerGuessesNumber\obj\Debug\ComputerGuessesNumber.csprojResolveAssemblyReference.cache
+C:\Users\cheta\Desktop\MSSA\CodingforFun\ComputerGuessesNumber\ComputerGuessesNumber\obj\Debug\ComputerGuessesNumber.csproj.CoreCompileInputs.cache
+C:\Users\cheta\Desktop\MSSA\CodingforFun\ComputerGuessesNumber\ComputerGuessesNumber\obj\Debug\ComputerGuessesNumber.exe
+C:\Users\cheta\Desktop\MSSA\CodingforFun\ComputerGuessesNumber\ComputerGuessesNumber\obj\Debug\ComputerGuessesNumber.pdb
