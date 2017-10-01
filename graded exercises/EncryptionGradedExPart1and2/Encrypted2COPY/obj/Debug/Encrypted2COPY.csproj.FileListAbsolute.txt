@@ -1,0 +1,7 @@
+C:\Users\cheta\Desktop\MSSA\CodingforFun\Encrypted2COPY\Encrypted2COPY\bin\Debug\Encrypted2COPY.exe.config
+C:\Users\cheta\Desktop\MSSA\CodingforFun\Encrypted2COPY\Encrypted2COPY\bin\Debug\Encrypted2COPY.exe
+C:\Users\cheta\Desktop\MSSA\CodingforFun\Encrypted2COPY\Encrypted2COPY\bin\Debug\Encrypted2COPY.pdb
+C:\Users\cheta\Desktop\MSSA\CodingforFun\Encrypted2COPY\Encrypted2COPY\obj\Debug\Encrypted2COPY.csprojResolveAssemblyReference.cache
+C:\Users\cheta\Desktop\MSSA\CodingforFun\Encrypted2COPY\Encrypted2COPY\obj\Debug\Encrypted2COPY.csproj.CoreCompileInputs.cache
+C:\Users\cheta\Desktop\MSSA\CodingforFun\Encrypted2COPY\Encrypted2COPY\obj\Debug\Encrypted2COPY.exe
+C:\Users\cheta\Desktop\MSSA\CodingforFun\Encrypted2COPY\Encrypted2COPY\obj\Debug\Encrypted2COPY.pdb
