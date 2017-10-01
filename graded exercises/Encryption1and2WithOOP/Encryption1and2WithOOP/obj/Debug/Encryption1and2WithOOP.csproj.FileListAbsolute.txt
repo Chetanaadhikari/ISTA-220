@@ -1,7 +1,0 @@
-C:\Users\cheta\Desktop\MSSA\CodingforFun\Encryption1and2WithOOP\Encryption1and2WithOOP\bin\Debug\Encryption1and2WithOOP.exe.config
-C:\Users\cheta\Desktop\MSSA\CodingforFun\Encryption1and2WithOOP\Encryption1and2WithOOP\bin\Debug\Encryption1and2WithOOP.exe
-C:\Users\cheta\Desktop\MSSA\CodingforFun\Encryption1and2WithOOP\Encryption1and2WithOOP\bin\Debug\Encryption1and2WithOOP.pdb
-C:\Users\cheta\Desktop\MSSA\CodingforFun\Encryption1and2WithOOP\Encryption1and2WithOOP\obj\Debug\Encryption1and2WithOOP.csprojResolveAssemblyReference.cache
-C:\Users\cheta\Desktop\MSSA\CodingforFun\Encryption1and2WithOOP\Encryption1and2WithOOP\obj\Debug\Encryption1and2WithOOP.csproj.CoreCompileInputs.cache
-C:\Users\cheta\Desktop\MSSA\CodingforFun\Encryption1and2WithOOP\Encryption1and2WithOOP\obj\Debug\Encryption1and2WithOOP.exe
-C:\Users\cheta\Desktop\MSSA\CodingforFun\Encryption1and2WithOOP\Encryption1and2WithOOP\obj\Debug\Encryption1and2WithOOP.pdb
